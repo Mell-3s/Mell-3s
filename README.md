@@ -6,3 +6,6 @@ I really see developing as a hobby for me because after working hours I'm readin
 ## Companies
 - [Lab900](https://github.com/lab900) @lab900-dries-mellaerts
 - [icapps](https://github.com/icapps) @icapps-dries-mellaerts **current company**
+
+## Socials
+- [LinkedIn](https://www.linkedin.com/in/dries-mellaerts/)
