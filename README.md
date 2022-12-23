@@ -9,3 +9,5 @@ I really see developing as a hobby for me because after working hours I'm readin
 
 ## Socials
 - [LinkedIn](https://www.linkedin.com/in/dries-mellaerts/)
+- [Stack Overflow](https://stackoverflow.com/users/19575061/dries-mellaerts)
+- [DEV Community](https://dev.to/mell3s)
